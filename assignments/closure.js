@@ -2,6 +2,13 @@
 // Write a simple closure of your own creation.  Keep it simple!
 
 
+const name = "Joey";
+
+testClosure = _ => console.log(`Hello ${name}`);
+
+testClosure();
+
+
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
 
